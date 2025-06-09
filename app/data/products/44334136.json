@@ -1,0 +1,49 @@
+{
+    "product_id": "44334136",
+    "product_name": "Bosch GWS 7-125 Professional 0601388108",
+    "stats": {
+        "opinions_count": 129,
+        "pros_count": 29,
+        "cons_count": 2,
+        "pros_cons_count": 2,
+        "average_rate": 4.7984496124031,
+        "pros": {
+            "functionality": 25,
+            "ease of use": 25,
+            "resilience": 21,
+            "Nice grinder and light": 14,
+            "price": 6,
+            "Ergonomics fairy tale": 3,
+            "it is great in his hand": 3,
+            "3 -year warranty even for a company": 2,
+            "loud transmission": 1,
+            "Heating gear": 1,
+            "relatively quiet work": 1,
+            "convenient spindle blocking": 1
+        },
+        "cons": {
+            "loud transmission": 1,
+            "Heating gear": 1,
+            "broken at the time of purchase.": 1,
+            "overheats immediately after turning on": 1
+        },
+        "recommendations": {
+            "false": 2,
+            "true": 121,
+            "NaN": 0
+        },
+        "stars": {
+            "0.0": 0,
+            "0.5": 0,
+            "1.0": 0,
+            "1.5": 1,
+            "2.0": 1,
+            "2.5": 0,
+            "3.0": 0,
+            "3.5": 2,
+            "4.0": 3,
+            "4.5": 27,
+            "5.0": 95
+        }
+    }
+}
